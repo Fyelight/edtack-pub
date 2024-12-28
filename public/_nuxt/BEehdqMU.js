@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{o as a,c as r,a as s,W as t}from"./DX4Xkoew.js";const c={},n={class:"text-4xl"},l={class:"text-gray-300"};function _(e,d){return a(),r("section",null,[s("h1",n,[t(e.$slots,"default")]),s("span",l,[t(e.$slots,"description")])])}const m=Object.assign(o(c,[["render",_]]),{__name:"HeroCard"});export{m as default};
